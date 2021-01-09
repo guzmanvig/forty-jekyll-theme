@@ -9,9 +9,9 @@ author:
 street_address: 14 Orkney Road
 city: Boston
 state: MA
-zip_code: 02135
+#zip_code: 02135
 country: United States of America
-phone: (669) 204-5778
+phone: +1 (669) 204-5778
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

@@ -112,7 +112,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<ul class="actions">
-			<li><a href="https://github.com/guzmanvig" class="button next">All my projects can be foud on Github</a></li>
+			<li><a href="https://github.com/guzmanvig" class="button next">All my projects can be found on Github</a></li>
 		</ul>
 	</div>
 </section>

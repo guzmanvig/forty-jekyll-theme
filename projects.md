@@ -85,7 +85,7 @@ nav-menu: true
 				</header>
 				<p>This webpage. Created using <strong>HTML</strong> and <strong>Jekyll</strong>, hosted in <strong>Github</strong>.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/guzmanvig/forty-jekyll-theme" class="button">Learn more</a></li>
+					<li><a href="https://github.com/guzmanvig/guzmanvig.github.io" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

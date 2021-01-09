@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Elements
+layout: landing
+title: Career
+description: Where I have worked
+image: assets/images/work.jpg
 nav-menu: true
 ---
 
@@ -10,11 +12,47 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Elements</h1>
-		</header>
 
 <!-- Content -->
+<dl>
+	<hr />
+	<img src="assets/images/neu.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<h3 style="display: inline-block" >Northeastern University</h3>
+	<h4 style="display: inline-block; float: right;  text-align: right;" >September 2020 - Today</h4>
+	<h4>Graduate Teaching Assistant</h4>
+	<dd>
+		<p>Teaching Assistant for the graduate course Mobile Development. Supporting the professor by grading assignments, holding office hours, writing <strong>Android</strong> sample codes and other course-related tasks.</p>
+	</dd>
+	<hr />
+	<img src="assets/images/az.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<h3 style="display: inline-block" >Amazon</h3>
+	<h4 style="display: inline-block; float: right;  text-align: right;" >May 2020 - August 2020</h4>
+	<h4>Software Development Engineer Intern</h4>
+	<dd>
+		<p>Developer for Amazon's Alexa Health team. Developed a website in <strong>ReactJS</strong> that interacted with several <strong>AWS</strong> services and an <strong>Alexa Skill</strong>. Setup and configured AWS services such as <strong>AWS Cognito, AWS DynamoDB, AWS Lambda</strong>, and others, to interact with the website. Created an Alexa Skill that received queries from the user and interacted with the website to provide a response.</p>
+	</dd>
+	<hr />
+	<img src="assets/images/khimo.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<h3 style="display: inline-block" >Khimo</h3>
+	<h4 style="display: inline-block; float: right;  text-align: right;" >September 2017 - July 2019</h4>
+	<h4>Software Developer</h4>
+	<dd>
+		<p>Developed three <strong>Android</strong> applications related to home automation in <strong>Java</strong>. Created a program in JavaScript that allowed one of the company's home controllers to interact with the <strong>Google Assistant</strong> (Assistant's App). The App was released in the market. Used the <strong>C++</strong> SDK of a Multi-touch screen to develop the software of an interactive showroom. Proposed changes in the implementation of three diferent technological products in order to make them compliant with the GDPR data protection law, that resulted in being implemented and the products released to the market.</p>
+	</dd>
+	<hr />
+	<img src="assets/images/fing.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<h3 style="display: inline-block" >Uruguay Engineering State University</h3>
+	<h4 style="display: inline-block; float: right;  text-align: right;" >August 2015 - Match 2018</h4>
+	<h4>Assistant Engineer and Mathematics Assistant Professor</h4>
+	<dd>
+		<p>Assistant professor of Analysis and Linear Algebra courses of the Mathematics Department, giving lectures and grading projects and tests, over the course of 5 semesters. Assistant in the Electrical Department in a project that aimed to design and develop an autonomous platform to remotely sense water quality. Designed and developed part of the micro-controller's firmware in <strong>C</strong>.</p>
+	</dd>
+	<hr />
+	
+</dl>
+
+
+<!--
 <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
@@ -26,7 +64,6 @@ nav-menu: true
 		<h3>Magna odio tempus commodo</h3>
 		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
 	</div>
-	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
@@ -43,12 +80,10 @@ nav-menu: true
 
 <hr class="major" />
 
-<!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-<!-- Text stuff -->
 <h3>Text</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -61,7 +96,6 @@ Finally, this is a <a href="#">link</a>.</p>
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 
-<!-- Lists -->
 <h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -163,11 +197,9 @@ Finally, this is a <a href="#">link</a>.</p>
 	</div>
 </div>
 
-<!-- Blockquote -->
 <h3>Blockquote</h3>
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
 
-<!-- Table -->
 <h3>Table</h3>
 
 <h4>Default</h4>
@@ -265,7 +297,6 @@ Finally, this is a <a href="#">link</a>.</p>
 </div>
 <div class="6u$ 12u$(medium)">
 
-<!-- Buttons -->
 <h3>Buttons</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
@@ -298,7 +329,6 @@ Finally, this is a <a href="#">link</a>.</p>
 	<li><span class="button disabled">Default</span></li>
 </ul>
 
-<!-- Form -->
 <h3>Form</h3>
 
 <form method="post" action="#">
@@ -309,7 +339,6 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
 		</div>
-		<!-- Break -->
 		<div class="12u$">
 			<div class="select-wrapper">
 				<select name="demo-category" id="demo-category">
@@ -321,7 +350,6 @@ Finally, this is a <a href="#">link</a>.</p>
 				</select>
 			</div>
 		</div>
-		<!-- Break -->
 		<div class="4u 12u$(small)">
 			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
@@ -334,7 +362,6 @@ Finally, this is a <a href="#">link</a>.</p>
 			<input type="radio" id="demo-priority-high" name="demo-priority">
 			<label for="demo-priority-high">High</label>
 		</div>
-		<!-- Break -->
 		<div class="6u 12u$(small)">
 			<input type="checkbox" id="demo-copy" name="demo-copy">
 			<label for="demo-copy">Email me a copy</label>
@@ -343,11 +370,9 @@ Finally, this is a <a href="#">link</a>.</p>
 			<input type="checkbox" id="demo-human" name="demo-human" checked>
 			<label for="demo-human">I am a human</label>
 		</div>
-		<!-- Break -->
 		<div class="12u$">
 			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 		</div>
-		<!-- Break -->
 		<div class="12u$">
 			<ul class="actions">
 				<li><input type="submit" value="Send Message" class="special" /></li>
@@ -357,38 +382,33 @@ Finally, this is a <a href="#">link</a>.</p>
 	</div>
 </form>
 
-<!-- Image -->
 <h3>Image</h3>
 
 <h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/work.jpg %}" alt="" /></span></div>
 	</div>
 </div>
 
 <h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<p><span class="image left"><img src="{% link assets/images/work.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<p><span class="image right"><img src="{% link assets/images/work.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 
-<!-- Box -->
 <h3>Box</h3>
 <div class="box">
 	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
 </div>
 
-<!-- Preformatted Code -->
 <h3>Preformatted</h3>
 <pre><code>i = 0;
 
@@ -405,6 +425,10 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </div>
 
 </div>
+
 </section>
+
+-->
+
 
 </div>

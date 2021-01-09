@@ -28,7 +28,7 @@ nav-menu: true
 		</ul>
 	</dd>
 	<hr />
-	<img src="assets/images/javascript.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<img src="assets/images/javascript.png" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Javascript</h3>
 	<dd>
 		<ul class="alt">
@@ -66,7 +66,7 @@ nav-menu: true
 
 <h2 style="color:#e7b788;">Tools & Platforms</h2>
 	<hr />
-	<img src="assets/images/git.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<img src="assets/images/git.png" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Git</h3>
 	<dd>
 		<ul class="alt">
@@ -85,7 +85,7 @@ nav-menu: true
 		</ul>
 	</dd>
 	<hr />
-	<img src="assets/images/unity.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<img src="assets/images/unity.png" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Unity</h3>
 	<dd>
 		<ul class="alt">
@@ -118,7 +118,7 @@ nav-menu: true
 		</ul>
 	</dd>
 	<hr />
-	<img src="assets/images/macos.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<img src="assets/images/macos.png" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >MacOS</h3>
 	<dd>
 		<ul class="alt">

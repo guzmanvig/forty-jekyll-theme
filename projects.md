@@ -99,7 +99,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ordering web app</h3>
 				</header>
-				<p>Simple web app to order beer and view the orders. Created using <strong>Angular</strong>, <strong>Express</strong> and <strong>SQLite</strong>, hosted in <strong>Github</strong>.</p>
+				<p>Simple web app to order beer and view the orders. Created using <strong>Angular</strong>, <strong>Express</strong> and <strong>SQLite</strong>.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/guzmanvig/viguz" class="button">Learn more</a></li>
 				</ul>

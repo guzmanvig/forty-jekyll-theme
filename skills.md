@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-<h2 style="color:#e7b788;">Programming Languages & Frameworks</h2>
+<h2>Programming Languages & Frameworks</h2>
 	
 <!-- Content -->
 <dl>
@@ -64,7 +64,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 
-<h2 style="color:#e7b788;">Tools & Platforms</h2>
+<h2>Tools & Platforms</h2>
 	<hr />
 	<img src="assets/images/git.png" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Git</h3>
@@ -98,7 +98,7 @@ nav-menu: true
 <section id="Three">
 <div class="inner">
 
-<h2 style="color:#e7b788;">Operative Systems</h2>
+<h2>Operative Systems</h2>
 	<hr />
 	<img src="assets/images/windows.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Windows</h3>

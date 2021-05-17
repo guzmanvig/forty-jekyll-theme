@@ -37,7 +37,7 @@ nav-menu: true
 				</header>
 				<p>Project in <strong>Python</strong> that involved the creation the Truco game and 2 AI agents to play against. In particular, the AI agents were creted using the MiniMax algorithm and Deep-Q Learning. The library <strong>StableBaselines3</strong> was used for the latter.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/guzmanvig/TradingML" class="button">Learn more</a></li>
+					<li><a href="https://github.com/guzmanvig/Truco-AI-agent/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

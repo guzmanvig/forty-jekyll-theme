@@ -18,7 +18,7 @@ nav-menu: true
 	<hr />
 	<img src="assets/images/neu.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Northeastern University</h3>
-	<h4 style="display: inline-block; float: right;  text-align: right;" >September 2020 - Today</h4>
+	<h4 style="display: inline-block; float: right;  text-align: right;" >September 2020 - May 2021</h4>
 	<h4>Graduate Teaching Assistant</h4>
 	<dd>
 		<p>Teaching Assistant for the graduate course Mobile Development. Supporting the professor by grading assignments, holding office hours, writing <strong>Android</strong> sample codes and other course-related tasks.</p>

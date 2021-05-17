@@ -18,10 +18,10 @@ nav-menu: true
 	<hr />
 	<img src="assets/images/neu.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Northeastern University</h3>
-	<h4 style="display: inline-block; float: right;  text-align: right;" >September 2019 - Today</h4>
+	<h4 style="display: inline-block; float: right;  text-align: right;" >September 2019 - May 2021</h4>
 	<h4>Master of Science in Computer Science</h4>
 	<dd>
-		<p>Studying a Master of Science in Computer Science with focus in Artificial Intelligence at Northeastern University in Boston, Massachussets, United States.</p>
+		<p>Master of Science in Computer Science with focus in Artificial Intelligence at Northeastern University in Boston, Massachussets, United States.</p>
 		<ul class="alt">
 			<li><b>GPA:</b> 4.0</li>
 			<li><b>Awards:</b> Fulbright Scholarship.</li>

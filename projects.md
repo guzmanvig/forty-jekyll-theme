@@ -11,9 +11,9 @@ nav-menu: true
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/tradingML.PNG %}" alt="" data-position="center center" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -27,9 +27,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/cards.jpg %}" alt="" data-position="center center" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -43,9 +43,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/errand.PNG %}" alt="" data-position="top center" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -59,9 +59,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/survey.PNG %}" alt="" data-position="25% 25%" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -75,9 +75,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/game.PNG %}" alt="" data-position="25% 25%" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -91,9 +91,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/web.PNG %}" alt="" data-position="25% 25%" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -107,9 +107,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/viguz.PNG %}" alt="" data-position="25% 25%" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">

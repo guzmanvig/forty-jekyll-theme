@@ -16,7 +16,7 @@ nav-menu: true
 <!-- Content -->
 <dl>
 	<hr />
-	<img src="assets/images/lattice.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<img src="assets/images/lattice.png" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Lattice Automation</h3>
 	<h4 style="display: inline-block; float: right;  text-align: right;" >June 2021 - Present</h4>
 	<h4>Software Engineer Co-Op</h4>

@@ -21,7 +21,7 @@ nav-menu: true
 	<h4 style="display: inline-block; float: right;  text-align: right;" >June 2021 - Present</h4>
 	<h4>Software Engineer Co-Op</h4>
 	<dd>
-		<p>Developing software for synthetic biology.</p>
+		<p>Developing software for synthetic biology applications. Doing mostly full-stack development, using AWS services for the backend and React for the frontend.</p>
 	</dd>
 	<hr />
 	<img src="assets/images/neu.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>

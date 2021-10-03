@@ -21,7 +21,7 @@ nav-menu: true
 	<h4 style="display: inline-block; float: right;  text-align: right;" >June 2021 - Present</h4>
 	<h4>Software Engineer Co-Op</h4>
 	<dd>
-		<p>Developing software for synthetic biology applications. Doing mostly full-stack development, using AWS services for the backend and React for the frontend.</p>
+		<p>Developing software for synthetic biology applications. Doing mostly full-stack development, using <strong>AWS services<strong/> for the backend and <strong>ReactJS<strong/> for the frontend.</p>
 	</dd>
 	<hr />
 	<img src="assets/images/neu.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
@@ -37,7 +37,7 @@ nav-menu: true
 	<h4 style="display: inline-block; float: right;  text-align: right;" >May 2020 - August 2020</h4>
 	<h4>Software Development Engineer Intern</h4>
 	<dd>
-		<p>Developer for Amazon's Alexa Health team. Developed a webapp in <strong>ReactJS</strong> that interacted with several <strong>AWS</strong> services and an <strong>Alexa Skill</strong>. Setup and configured AWS services such as <strong>AWS Cognito, AWS DynamoDB, AWS Lambda</strong>, and others, to interact with the webapp. Created an Alexa Skill that received queries from the user and interacted with the webapp to provide a response.</p>
+		<p>Software Engineer Intern in Amazon's Alexa Health team. Developed a webapp in <strong>ReactJS</strong> that interacted with several <strong>AWS</strong> services and an <strong>Alexa Skill</strong>. Setup and configured AWS services such as <strong>AWS Cognito, AWS DynamoDB, AWS Lambda</strong>, and others for the webapp backend. Created an Alexa Skill that received queries from the user and interacted with the webapp to provide a response.</p>
 	</dd>
 	<hr />
 	<img src="assets/images/khimo.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
@@ -45,7 +45,7 @@ nav-menu: true
 	<h4 style="display: inline-block; float: right;  text-align: right;" >September 2017 - July 2019</h4>
 	<h4>Software Developer</h4>
 	<dd>
-		<p>Developed three <strong>Android</strong> applications related to home automation in <strong>Java</strong>. Created a program in <strong>JavaScript</strong> that allowed one of the company's home controllers to interact with the <strong>Google Assistant</strong> (Assistant's App). The App was released in the market. Used the <strong>C++</strong> SDK of a Multi-touch screen to develop the software of an interactive showroom. Proposed changes in the implementation of three diferent technological products in order to make them compliant with the GDPR data protection law, that resulted in being implemented and the products released to the market.</p>
+		<p>Developed three <strong>Android</strong> applications related to home automation in <strong>Java</strong>. Created a <strong>JavaScript</strong> application that allowed one of the company's home controllers to interact with the <strong>Google Assistant</strong> (Assistant's App). Used the <strong>C++</strong> SDK of a Multi-touch screen to develop the software of an interactive showroom. Proposed changes in the implementation of diferent technological products in order to make them compliant with the GDPR data protection european law.</p>
 	</dd>
 	<hr />
 	<img src="assets/images/fing.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
@@ -53,7 +53,7 @@ nav-menu: true
 	<h4 style="display: inline-block; float: right;  text-align: right;" >August 2015 - March 2018</h4>
 	<h4>Assistant Engineer and Mathematics Assistant Professor</h4>
 	<dd>
-		<p>Assistant professor of <strong>Analysis</strong> and <strong>Linear Algebra</strong> courses of the Mathematics Department, giving lectures and grading projects and tests, over the course of 5 semesters. Assistant in the Electrical Department in a project that aimed to design and develop an autonomous platform to remotely sense water quality. Designed and developed part of the micro-controller's firmware in <strong>C</strong>.</p>
+		<p>Assistant professor of undergraduate <strong>Analysis</strong> and <strong>Linear Algebra</strong> courses of the Mathematics Department, giving lectures and grading projects and tests, over the course of 5 semesters. Assistant in the Electrical Department in a project that aimed to design and develop an autonomous platform to remotely sense water quality. Designed and developed part of the micro-controller's firmware in <strong>C</strong>.</p>
 	</dd>
 	<hr />
 	

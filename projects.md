@@ -28,6 +28,22 @@ nav-menu: true
 	</section>
 	<section>
 		<div class="image">
+			<img src="{% link assets/images/miedificio.PNG %}" alt="" data-position="center center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>MiEdificio (MyBuilding)</h3>
+				</header>
+				<p>Multi-platform app made in <strong>Flutter</strong> for property managers. The app helps managers with different task such as remote voting, keeping track of tenants, notifications, etc. Backend made using <strong>Firebase</strong>.
+				<ul class="actions">
+					<li><a href="https://mybuilding-f8cd3.web.app/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="image">
 			<img src="{% link assets/images/cards.jpg %}" alt="" data-position="center center" />
 		</div>
 		<div class="content">

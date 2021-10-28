@@ -21,7 +21,7 @@ nav-menu: true
 	<h4 style="display: inline-block; float: right;  text-align: right;" >June 2021 - Present</h4>
 	<h4>Software Engineer Co-Op</h4>
 	<dd>
-		<p>Developing software for synthetic biology applications. Doing mostly full-stack development, using <strong>AWS services</strong> for the backend and <strong>ReactJS</strong> for the frontend.</p>
+		<p>Developing software for synthetic biology applications. Doing mostly full-stack development, using <strong>AWS services</strong> and <strong>Python</strong> for the backend and <strong>ReactJS</strong> for the frontend.</p>
 	</dd>
 	<hr />
 	<img src="assets/images/neu.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
@@ -37,7 +37,7 @@ nav-menu: true
 	<h4 style="display: inline-block; float: right;  text-align: right;" >May 2020 - August 2020</h4>
 	<h4>Software Development Engineer Intern</h4>
 	<dd>
-		<p>Software Engineer Intern in Amazon's Alexa Health team. Developed a webapp in <strong>ReactJS</strong> that interacted with several <strong>AWS</strong> services and an <strong>Alexa Skill</strong>. Setup and configured AWS services such as <strong>AWS Cognito, AWS DynamoDB, AWS Lambda</strong>, and others for the webapp backend. Created an Alexa Skill that received queries from the user and interacted with the webapp to provide a response.</p>
+		<p>Software Engineer Intern in Amazon's Alexa Health team. Developed a webapp in <strong>ReactJS</strong> that interacted with several <strong>AWS</strong> services and an <strong>Alexa Skill</strong>. Setup and configured AWS services such as <strong>AWS Cognito, AWS DynamoDB, AWS Lambda (Java)</strong>, and others for the webapp backend. Created an Alexa Skill that received queries from the user and interacted with the webapp to provide a response.</p>
 	</dd>
 	<hr />
 	<img src="assets/images/khimo.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>

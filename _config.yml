@@ -2,16 +2,15 @@
 title: Guzman Vigliecca
 #subtitle: by HTML5 UP
 email: mpzokrnz
-description: Software Developer | MSc in Computer Science | Fulbright Scholar
+description: Software Engineer | MSc in Computer Science | Fulbright Scholar
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1203 Boylston St
-city: Boston
-state: MA
+street_address: Tiburcio Gomez 1381
+city: Montevideo
 #zip_code: 02135
-country: United States of America
-phone: +1 (669) 204-5778
+country: Uruguay
+phone: +598 92454005
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

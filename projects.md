@@ -12,6 +12,23 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<div class="image">
+			<img src="{% link assets/images/wasteland-rats.png %}" alt="" data-position="center center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Wasteland Rats</h3>
+				</header>
+				<p>A collection of 3333 unique NFT living in the Ethereum blockchain. Website created with 
+				 <strong>React</strong> and <strong>Bootstrap</strong>, smart contract created with  <strong>Solidity</strong>.</p>
+				<ul class="actions">
+					<li><a href="https://wasteland-rats.com/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="image">
 			<img src="{% link assets/images/tradingML.PNG %}" alt="" data-position="center center" />
 		</div>
 		<div class="content">
@@ -102,22 +119,6 @@ nav-menu: true
 				<p>Simple 2D game created in <strong>Unity</strong> and coded in <strong>C#</strong>. The game consists in matching the colored balls falling from the top with the colors of a circle located in the bottom of the screen.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/guzmanvig/MobileGameProject" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<div class="image">
-			<img src="{% link assets/images/web.PNG %}" alt="" data-position="25% 25%" />
-		</div>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Personal webpage</h3>
-				</header>
-				<p>This webpage. Created using <strong>HTML</strong> and <strong>Jekyll</strong>, hosted in <strong>Github</strong>.</p>
-				<ul class="actions">
-					<li><a href="https://github.com/guzmanvig/guzmanvig.github.io" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

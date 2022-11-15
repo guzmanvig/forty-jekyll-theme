@@ -23,6 +23,14 @@ nav-menu: true
 	<dd>
 		<p>Developing software for synthetic biology applications. Doing mostly full-stack development, using <strong>AWS services</strong>, <strong>Python</strong> for the backend and <strong>ReactJS</strong> for the frontend.</p>
 	</dd>
+		<hr />
+	<img src="assets/images/ort.png" height= "40" width="40" style="float:left; margin-right: 20px"/>
+	<h3 style="display: inline-block" >ORT University</h3>
+	<h4 style="display: inline-block; float: right;  text-align: right;" >August 2022 - Present</h4>
+	<h4>Software Engineer Professor</h4>
+	<dd>
+		<p>Teaching the course Application Design, a Software Engineering course where students learn software design, design patterns, TDD and other concepts.</p>
+	</dd>
 	<hr />
 	<img src="assets/images/neu.PNG" height= "40" width="40" style="float:left; margin-right: 20px"/>
 	<h3 style="display: inline-block" >Northeastern University</h3>

@@ -19,7 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Wasteland Rats</h3>
 				</header>
-				<p>A collection of 3333 unique NFT living in the Ethereum blockchain. Website created with 
+				<p>A collection of 3333 unique NFTs living in the Ethereum blockchain. Website created with 
 				 <strong>React</strong> and <strong>Bootstrap</strong>, smart contract created with  <strong>Solidity</strong>.</p>
 				<ul class="actions">
 					<li><a href="https://wasteland-rats.com/" class="button">Learn more</a></li>
